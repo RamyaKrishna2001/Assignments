@@ -80,6 +80,6 @@ const AlbumsAccordion = ({ user }) => {
       )}
     </>
   );
-};
+}; 
 
 export default AlbumsAccordion;
