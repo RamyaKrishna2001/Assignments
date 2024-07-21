@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Shravani Kurva"
+    },
+    {
+      "id": "2",
+      "name": "Ramya Krishna"
+    },
+    {
+      "id": "3",
+      "name": "Jyothi Ram"
+    },
+    {
+      "id": "4",
+      "name": "Bhanu Teja"
+    },
+    {
+      "id": "5",
+      "name": "Deepak Reddy"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking",
+      "userId": 1
+    },
+    {
+      "id": "11",
+      "title": "Trekking",
+      "userId": 2
+    },
+    {
+      "id": "12",
+      "title": "Scuba Diving",
+      "userId": 3
+    },
+    {
+      "id": "13",
+      "title": "Sky Diving",
+      "userId": 4
+    },
+    {
+      "id": "13",
+      "title": "Swimming",
+      "userId": 5
+    }
+  ],
+  "photos": [
+    {
+      "id": "c794",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2237374050336768"
+    },
+    {
+      "id": "74ed",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=4344044415090688"
+    },
+    {
+      "id": "1680",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5651287748116480"
+    },
+    {
+      "id": "a25e",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=7592054469165056"
+    },
+    {
+      "id": "cc14",
+      "albumId": "11",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1463978892984320"
+    },
+    {
+      "id": "df08",
+      "albumId": "11",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5069630869602304"
+    },
+    {
+      "id": "58e8",
+      "albumId": "11",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1695510777823232"
+    },
+    {
+      "id": "ba28",
+      "albumId": "12",
+      "url": "https://loremflickr.com/150/150/abstract?lock=6255352641224704"
+    },
+    {
+      "id": "1065",
+      "albumId": "12",
+      "url": "https://loremflickr.com/150/150/abstract?lock=481517792919552"
+    },
+    {
+      "id": "9088",
+      "albumId": "12",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2419886768783360"
+    },
+    {
+      "id": "56e3",
+      "albumId": "12",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2747337260662784"
+    }
+  ]
+}

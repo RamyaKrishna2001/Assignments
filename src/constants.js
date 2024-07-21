@@ -1,0 +1,168 @@
+export const itemsList = [
+  {
+    id: 1,
+    name: "Tooth Brush",
+    packed: false,
+  },
+  {
+    id: 2,
+    name: "Tooth Paste",
+    packed: false,
+  },
+  {
+    id: 3,
+    name: " Deoderant",
+    packed: false,
+  },
+  {
+    id: 4,
+    name: "iPhone Charger",
+    packed: false,
+  },
+  {
+    id: 5,
+    name: "Hoodie",
+    packed: true,
+  },
+  {
+    id: 6,
+    name: "Basket Ball",
+    packed: true,
+  },
+];
+
+export const tableData = [
+  {
+    name: "Cheeseburger Meal - McDonalds",
+    whereToOrder: "McDonalds",
+    description:
+      "The Free IceDream is one of Chick-fil-A's more common secret menu items.",
+    secret: "A Chick-fil-A IceDream can be substituted for a Kid's Meal prize",
+    popularity: 4,
+    price: "Free in exchange for your Chick-fil-A Kid's Meal Toy",
+  },
+  {
+    name: "Add Bacon - KFC",
+    whereToOrder: "KFC",
+    description:
+      "When at KFC, you always have the option to Add Bacon to any entree item. ",
+    secret: "Add Bacon to any Sandwich or Entree",
+    popularity: 7,
+    price: "$5.50",
+  },
+  {
+    name: "Add Mashed Potatoes - KFC",
+    whereToOrder: "KFC",
+    description: "We all know that KFC's Mashed Potatoes are top notch. ",
+    secret: "Mashed Potatoes added on to anything!",
+    popularity: 5,
+    price: "Varies by Location",
+  },
+  {
+    name: "All American - McDonalds",
+    whereToOrder: "McDonalds",
+    description:
+      "The McDonalds All American burger is one of McDonald's most famous secret menu",
+    secret: "A Simple Burger w/ just ketchup and pickles",
+    popularity: 4,
+    price: "$1.00",
+  },
+  {
+    name: "Apple Pie Frappuccino - Starbucks",
+    whereToOrder: "Starbucks",
+    description: "The Starbucks Apple Pie Frappuccino is one of the best",
+    secret: "Fill to first line with Cream, Fill to 2nd line with Apple Juice,",
+    popularity: 3,
+    price: "$3.40",
+  },
+  {
+    name: "BK BLT - Burger King",
+    whereToOrder: "Burger King",
+    description:
+      "The Burger King BLT burger is one of Burger King's most famous ",
+    secret: "Classic BLT Toppings added to a Whopper or Whopper Jr.",
+    popularity: 6,
+    price: "$1.79 ",
+  },
+  {
+    name: "Cheesarito - Taco Bell",
+    whereToOrder: "Taco Bell",
+    description: "The Taco Bell Cheesarito is one of Taco Bell's most popular ",
+    secret: "Melted Cheese, Scallions, & Sauce wrapped up in a Soft Tortilla",
+    popularity: 5,
+    price: "$2.49",
+  },
+  {
+    name: "Cheesy Gordita Crunch - Taco Bell",
+    whereToOrder: "Taco Bell",
+    description: "The Taco Bell Cheesarito is one of Taco Bell's most popular ",
+    secret: "Melted Cheese, Scallions, & Sauce wrapped up in a Soft Tortilla",
+    popularity: 1,
+    price: "$3.49",
+  },
+  {
+    name: "Chocolate Chip Blizzard - Dairy Queen",
+    whereToOrder: "Dairy Queen",
+    description: "Even though this frosty DQ Chocolate Chip ",
+    secret: "Extra Chocolate Chips in a Vanilla Blizzard",
+    popularity: 2,
+    price: "$4.49",
+  },
+  {
+    name: "Dirty Orgasm",
+    whereToOrder: "Dominos",
+    description: "The Jamba Juice Andres Surprise",
+    secret: "9 oz. Orange Juice1 oz. Raspberry Juice2 Scoops o",
+    popularity: 2,
+    price: "$1.49",
+  },
+  {
+    name: "Paneer Pizza",
+    whereToOrder: "Pizza Hut",
+    description: "Meet the Burritodilla from the Chipotle secret menu, a c",
+    secret: "Get FREE Fajitas Veggies,",
+    popularity: 3,
+    price: "$0.49",
+  },
+  {
+    name: "Tandori Chicken",
+    whereToOrder: "Dominos",
+    description: "The Jamba Juice Andres Surprise",
+    secret: "9 oz. Orange Juice1 oz. Raspberry Juice2 Scoops o",
+    popularity: 7,
+    price: "$2.49",
+  },
+  {
+    name: "Corn Pizza",
+    whereToOrder: "Pizza Hut",
+    description: "Meet the Burritodilla from the Chipotle secret menu, a c",
+    secret: "Get FREE Fajitas Veggies,",
+    popularity: 1,
+    price: "$0.49",
+  },
+  {
+    name: "Marshmallow Creme - Dairy Queen",
+    whereToOrder: "Dairy Queen",
+    description: "Even though this frosty DQ Chocolate Chip ",
+    secret: "Extra Chocolate Chips in a Vanilla Blizzard",
+    popularity: 5,
+    price: "$7.49",
+  },
+  {
+    name: "Dirty Chai - Starbucks",
+    whereToOrder: "Starbucks",
+    description: "The Starbucks Apple Pie Frappuccino",
+    secret: "Fill to first line with Cream, ",
+    popularity: 3,
+    price: "$2.49",
+  },
+  {
+    name: "Old Cut - Subway",
+    whereToOrder: "Subway",
+    description:
+      "The Subway Old Cut was once the only way that Subway cut their sandwiches.",
+    secret: "Bread is dug out from the top",
+    popularity: 2,
+    price: "$2.49",
+  },
+];
